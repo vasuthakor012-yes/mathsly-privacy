@@ -1,0 +1,2 @@
+# mathsly-privacy
+Privacy policy
